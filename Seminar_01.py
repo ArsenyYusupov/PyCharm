@@ -8,3 +8,4 @@ if number2 == number1 ** 2 or number1 == number2 ** 2:
 else:
     print('No')
     print('No')
+    print('No')

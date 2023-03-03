@@ -129,3 +129,28 @@
 # b = 'чуть'
 # print(a.count(b))
 
+"Задайте список. Напишите программу, которая определит, присутствует ли в заданном списке строк некое число."
+
+# string = input('Введите строку')
+# simbol = input()
+# sin_list = ''
+# word_list = string.split(' ')
+# for i in word_list:
+#     for j in i:
+#      if j == simbol:
+#          print('yes')
+# print('No')
+
+"Напишите программу, которая определит позицию второго вхождения строки в списке либо сообщит, что её нет."
+
+# a = input().split()
+# find_str = input()
+# count = 0
+# for i in range(len(a)):
+#     if a[i] == find_str:
+#         count += 1
+#         if count == 2:
+#             print(i)
+#             break
+# else:
+#     print(-1)
